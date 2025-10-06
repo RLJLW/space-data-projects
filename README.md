@@ -6,14 +6,13 @@ I'm considering the following projects:
 
  - **NASA Datasets information** - Create information about various NASA data sets, and links, descriptions for using them.
  
- -  **NASA Data Opportunities** - Create information and motivation for projects that could detect using NASS data:   
-    - River pollution
-    - Oil spill thickness analysis
-    - Vegetation and crop extent
-    - Crop type analysis
-    - Plastic Pollution in the ocean
+ -  **NASA Data Opportunities** - Create information and motivation for projects that could detect using NASA data:   
+    - River pollution, including water quality (visual images and optional quantitative analysis)
+    - Oil spill thickness analysis (visual images and optional quantitative analysis)
+    - Vegetation and crop extent (visual images and optional quantitative analysis)
+    - Crop type analysis (visual images and optional quantitative analysis)
+    - Plastic Pollution in the ocean (visual images and optional quantitative analysis)
 
-  
  - **UAVSAR Processed High Definition Images on a Website** - Making NASA SAR(UAVSAR) imagery available for analysis in a processed format.
    a) High resolution images of various landscapes, oceans, rivers, starting with one image as an example.
    b) Display RGB color model of the UAVSAR image using various polarizations as colours.
