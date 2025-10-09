@@ -1,6 +1,11 @@
 # Space Data Projects
 
-Projects using Space data - Ideas and Work in progress
+## Updates
+
+- Currently working on processing and analying SAR files - 2025/10/09
+- Doing research into orbit and properties of Comet C/2025 R2
+  
+## Projects using Space data - Ideas and Work in progress
 
 I'm considering the following projects:
 
