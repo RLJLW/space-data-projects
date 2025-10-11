@@ -19,11 +19,10 @@ I'm considering the following projects:
     - Plastic Pollution in the ocean (visual images and optional quantitative analysis)
 
  - **UAVSAR Processed High Definition Images on a Website** - Making NASA SAR(UAVSAR) imagery available for analysis in a processed format.
-   a) High resolution images of various landscapes, oceans, rivers, starting with one image as an example.
-   <br />
-   b) Display RGB color model of the UAVSAR image using various polarizations as colours.
-   <br />
-   c) Allow the raw data  HH, VV, VH or HV data to be displayed for specific pixels so they can be analysed.
+   
+    - High resolution images of various landscapes, oceans, rivers, starting with one image as an example.
+    - Display RGB color model of the UAVSAR image using various polarizations as colours.
+    - Allow the raw data  HH, VV, VH or HV data to be displayed for specific pixels so they can be analysed.
  
  -  **Asteroid Modelling and Analysis** - Analyse and model forces on an asteroid taking into account light pressure / the Yarkovsky effect.
 
