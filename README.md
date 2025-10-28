@@ -2,9 +2,16 @@
 
 ## Updates
 
-- Currently working on a tool to process NASA impact (bolide) information and display a marker on Google Maps - 2025/10/09
-- Currently working on processing and analying SAR files - 2025/10/09
-- Doing research into orbit and properties of Comet C/2025 R2
+- Hyperspectral Imagery for Pollution Detection:
+   - Worked more on file reading tools for Hyperspectral image file analysis - 2025/10/27
+   - Investigated past attempts by groups at characterising plastic pollution from Space using remote sensing, and determining where could build on this and use newer technology - 2025/10/27
+   - Got more ideaas for places to use as tests for detecting pollution from space (dump sites for exmample) in specific countries, ideally with street view to verify dump site. - 2025/10/27
+   - Looked at ways of displaying a map of multispectral data showing certain channels as RGB - 2025/10/27
+   - Investigated hyperspectral data sets in New York (USA) and Cape Town, South Africa. 2025/10
+
+- Completed BETA version of (bolide) information and display a marker on Google Maps displaying location, altitude, impact energy(kt) and marker on Google Maps - 2025/10/28
+
+- Worked on processing and analying SAR files - 2025/10/09
   
 ## Projects using Space data - Ideas and Work in progress
 
