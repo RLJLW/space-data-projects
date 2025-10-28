@@ -9,7 +9,7 @@
    - Looked at ways of displaying a map of multispectral data showing certain channels as RGB - 2025/10/27
    - Investigated hyperspectral data sets in New York (USA) and Cape Town, South Africa. 2025/10
 
-- Completed BETA version of (bolide) information and display a marker on Google Maps displaying location, altitude, impact energy(kt) and marker on Google Maps - 2025/10/28
+- Completed BETA version of NASA Impact event data (bolide) information and display a marker on Google Maps displaying date and time, location, altitude, impact energy(kt) and marker on Google Maps - 2025/10/28
 
 - Worked on processing and analying SAR files - 2025/10/09
   
